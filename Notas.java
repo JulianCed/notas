@@ -67,11 +67,7 @@ System.out.println("**************");
    System.out.println("N° DE NOTAS");
     notas = in.nextInt();
    System.out.println(""); 
-
-   System.out.println("PORCENTAJE DE LAS NOTAS");
-   System.out.println("");
-   System.out.println(" 0.35= 35%");
-   System.out.println(" 0,15 = 15%");
+ 
 if(notas>=1&&notas<=2){
 
     System.out.println("N° 1");
